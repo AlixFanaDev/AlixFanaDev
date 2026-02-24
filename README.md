@@ -143,7 +143,7 @@ I'm a **Full Stack Web Developer** from Morocco, passionate about turning ideas 
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6EE7F7?style=for-the-badge&logo=vercel&logoColor=black)](https://alixfanana-dev-portfolio.vercel.app/)
 &nbsp;
-[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](www.linkedin.com/in/abdelali-ait-hammi-8a6505379)
+[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/abdelali-ait-hammi-8a6505379)
 </div>
 
 <br/>
