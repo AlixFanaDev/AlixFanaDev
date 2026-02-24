@@ -14,11 +14,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=alixfanadevowfs&color=6EE7F7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=AlixFanaDev&color=6EE7F7&style=flat-square&label=Profile+Views)
 &nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/alixfanadevowfs?label=Followers&style=flat-square&color=6EE7F7&labelColor=1a1a2e)](https://github.com/alixfanadevowfs?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AlixFanaDev?label=Followers&style=flat-square&color=6EE7F7&labelColor=1a1a2e)](https://github.com/AlixFanaDev?tab=followers)
 &nbsp;&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/alixfanadevowfs?label=Total%20Stars&style=flat-square&color=6EE7F7&labelColor=1a1a2e)](https://github.com/alixfanadevowfs)
+[![GitHub stars](https://img.shields.io/github/stars/AlixFanaDev?label=Total%20Stars&style=flat-square&color=6EE7F7&labelColor=1a1a2e)](https://github.com/AlixFanaDev)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 Who Am I?
 
-<img align="right" width="340" src="https://github-readme-activity-graph.vercel.app/graph?username=alixfanadevowfs&theme=react-dark&hide_border=true&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=ffffff&area=true"/>
+<img align="right" width="340" src="https://github-readme-activity-graph.vercel.app/graph?username=AlixFanaDev&theme=react-dark&hide_border=true&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=ffffff&area=true"/>
 
 I'm a **Full Stack Web Developer** from Morocco, passionate about turning ideas into real, working products. I enjoy working across the entire stack — from crafting polished UIs to architecting robust backends and databases.
 
@@ -80,15 +80,15 @@ I'm a **Full Stack Web Developer** from Morocco, passionate about turning ideas 
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=alixfanadevowfs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=AlixFanaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixfanadevowfs&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixFanaDev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alixfanadevowfs&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7F7&fire=f97316&currStreakLabel=6EE7F7&sideLabels=6EE7F7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlixFanaDev&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7F7&fire=f97316&currStreakLabel=6EE7F7&sideLabels=6EE7F7)](https://git.io/streak-stats)
 
 </div>
 
@@ -124,9 +124,9 @@ I'm a **Full Stack Web Developer** from Morocco, passionate about turning ideas 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alixfanadevowfs/alixfanadevowfs/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alixfanadevowfs/alixfanadevowfs/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/alixfanadevowfs/alixfanadevowfs/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlixFanaDev/AlixFanaDev/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlixFanaDev/AlixFanaDev/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AlixFanaDev/AlixFanaDev/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
