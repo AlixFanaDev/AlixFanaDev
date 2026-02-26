@@ -79,11 +79,9 @@ I'm a **Full Stack Web Developer** from Morocco, passionate about turning ideas 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=AlixFanaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixFanaDev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9"/>
-
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=AlixFanaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixFanaDev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
