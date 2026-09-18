@@ -139,7 +139,7 @@ I'm a **Full Stack Web Developer** from Morocco, passionate about turning ideas 
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212626780406)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6EE7F7?style=for-the-badge&logo=vercel&logoColor=black)](https://alixfanana-dev-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6EE7F7?style=for-the-badge&logo=vercel&logoColor=black)](https://alixfana-dev-portfoloi.vercel.app/)
 &nbsp;
 [![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/abdelali-ait-hammi-8a6505379)
 </div>
